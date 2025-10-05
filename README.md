@@ -13,4 +13,8 @@ Python 3
 Django 5.13
 SQLite(Default DB)
 Html+CSS+Bootstrap5.0
+
+# Screeshot
+<img width="1882" height="954" alt="image" src="https://github.com/user-attachments/assets/8b0796bd-1e5a-498d-9ddd-baf21d717c37" />
+
  
